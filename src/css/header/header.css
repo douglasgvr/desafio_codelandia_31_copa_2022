@@ -1,0 +1,35 @@
+header {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.container_header {
+  padding: 38px 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container_header ul {
+  display: flex;
+  gap: 56px;
+}
+
+.container_header ul li {
+  list-style: none;
+}
+
+.container_header li a {
+  text-decoration: none;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+
+  color: black;
+}
+
+.container_header li a:hover {
+  color: #8b1d3d;
+  border-bottom: 1px solid #8b1d3d;
+}

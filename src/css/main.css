@@ -1,0 +1,8 @@
+@import "./header/header.css";
+@import "./hero.css";
+@import "./section_grupos/grupos_times.css";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}

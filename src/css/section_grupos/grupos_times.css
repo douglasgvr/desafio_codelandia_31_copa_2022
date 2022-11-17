@@ -1,0 +1,69 @@
+.grupos_time {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.grupos_time_titulo {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+
+  color: #1f1e1e;
+
+  padding: 100px 0 48px 0;
+}
+
+.grupos_cards {
+  width: 384px;
+  height: 428px;
+
+  background: #f4f4f4;
+  box-shadow: 3px 3px 3px rgba(60, 57, 57, 0.2);
+  border-radius: 6px;
+}
+
+.cards {
+  padding: 45px 164px 37px 33px;
+}
+
+.grupos_cards h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #1f1e1e;
+
+  padding-top: 32px;
+}
+
+.times {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.grupos_cards .times img {
+  width: 60px;
+  height: 45px;
+}
+
+.times span {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #3c3939;
+}
